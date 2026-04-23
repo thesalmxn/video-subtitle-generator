@@ -52,7 +52,8 @@ A Python script that automatically generates Greek and English subtitles from vi
    ```
 
 5. Ensure FFmpeg is available:
-   - Download FFmpeg and place `ffmpeg.exe` in the project root, or
+   - Download FFmpeg from https://ffmpeg.org/download.html
+   - Extract and place `ffmpeg.exe` in the project root, or
    - Install FFmpeg system-wide and ensure it's in your PATH
 
 ## Usage
